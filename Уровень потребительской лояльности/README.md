@@ -5,7 +5,7 @@
 
 ## Использование
 Вы можете изучить SQL-запросы в файле
-**NPS_telecomm.ipynb**
+**NPS_telecomm.ipynb**, открыв его в Jupyter Notebook или другой среде.
 
 И ознакомиться с [**дашбордом**](https://public.tableau.com/app/profile/alexandr.baranov/viz/NPS_16846118840790/Story1)
 
