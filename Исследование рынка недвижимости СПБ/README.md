@@ -10,7 +10,7 @@
 1. Установить Python
 2. Установить необходимые библиотеки `pip install`:
    ```shell
-   pip install pandas numpy matplotlib seaborn scipy plotly
+   pip install pandas numpy matplotlib seaborn plotly
    ```
 3. Скачать ноутбук
 ## Использование
