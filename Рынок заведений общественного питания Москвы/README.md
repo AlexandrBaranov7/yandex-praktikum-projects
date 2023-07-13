@@ -4,7 +4,8 @@
 ## Структура проекта
 1. **admin_level_geomap.geojson** - файл geojson с административным делением г. Москвы.
 2. **README.md** - файл с описанием проекта.
-3. **foodservice_market_analysis.ipynb** - тетрадка с проектом.
+3. **notebooks** - папка с Jupyter ноутбуками
+   - **foodservice_market_analysis.ipynb** - тетрадка с проектом.
 4. **presentation_foodservice.pdf** - презентация с выводами.
 ## Установка и запуск
 1. Откройте Jupyter Notebook или другую среду
