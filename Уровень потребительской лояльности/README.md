@@ -17,4 +17,4 @@ ER-диаграмма наглядно представляет структур
 
 ## Dashboard
 Проект включает в себя набор предварительно созданных дашбордов с использованием Tableau для представления результатов анализа NPS. Дашборды визуализируют ключевые показатели и предоставляют интерактивный интерфейс для изучения информации о пользователях и уровне их лояльности.
-[Ссылка на дашборд](https://public.tableau.com/app/profile/alexandr.baranov/viz/NPS_16846118840790/Story1)https://public.tableau.com/app/profile/alexandr.baranov/viz/NPS_16846118840790/Story1
+[Ссылка на дашборд](https://public.tableau.com/app/profile/alexandr.baranov/viz/NPS_16846118840790/Story1)
